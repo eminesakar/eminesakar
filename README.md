@@ -20,7 +20,7 @@
   </div>
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" width="1000" height="500"/>
+  <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" width="800" height="500"/>
 </div>
 
 ---
