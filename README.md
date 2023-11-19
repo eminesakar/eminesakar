@@ -22,3 +22,14 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" width="1000" height="500"/>
 </div>
+
+---
+
+### :woman_technologist: About Me :
+
+
+- 🔭 I’m currently studying in 42 Ecole
+- 🎨 I'm interested in software development
+- 🌱 I’m currently learning C, C++, Python
+- 💬 Ask me about 42 Ecole
+- 📫 How to reach me eminenursakar@gmail.com
